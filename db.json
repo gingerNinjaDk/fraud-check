@@ -23,6 +23,14 @@
         "REASON": "Claims history",
         "DATE": "2021-09-10T16:28:31",
         "STATUS": "Active"
+      },
+      {
+        "ID": "100772",
+        "NAME": "Inger Barnfield",
+        "FRAUD_CAT": "D",
+        "REASON": "Claims history",
+        "DATE": "2021-09-10T16:28:31",
+        "STATUS": "Active"
       }
     ]
   }
