@@ -1,0 +1,13 @@
+{
+    "persons": [
+      {
+        "ID": "120269",
+        "NAME": "Nigel Barnfield",
+        "FRAUD_CAT": "D",
+        "REASON": "Claims history",
+        "DATE": "2021-09-10T16:28:31",
+        "STATUS": "Active"
+      }
+    ]
+  }
+  
