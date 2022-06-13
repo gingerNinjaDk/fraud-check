@@ -2,7 +2,6 @@
     "persons": [
       {
         "ID": "120269",
-        "NAME": "Nigel Barnfield",
         "FRAUD_CAT": "C",
         "REASON": "Claims history",
         "DATE": "2021-09-10T16:28:31",
@@ -10,7 +9,6 @@
       },
       {
         "ID": "110405",
-        "NAME": "Sille Holm Barnfield",
         "FRAUD_CAT": "A",
         "REASON": "Claims history",
         "DATE": "2021-09-10T16:28:31",
@@ -18,7 +16,6 @@
       },
       {
         "ID": "270907",
-        "NAME": "Asmus Barnfield",
         "FRAUD_CAT": "B",
         "REASON": "Claims history",
         "DATE": "2021-09-10T16:28:31",
@@ -26,7 +23,6 @@
       },
       {
         "ID": "100772",
-        "NAME": "Inger Barnfield",
         "FRAUD_CAT": "D",
         "REASON": "Claims history",
         "DATE": "2021-09-10T16:28:31",
