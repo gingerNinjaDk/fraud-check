@@ -1,28 +1,28 @@
 {
     "persons": [
       {
-        "ID": "120269",
-        "FRAUD_CAT": "C",
+        "ID": "BR87YG",
+        "FRAUD_CAT": "D",
         "REASON": "Claims history",
         "DATE": "2021-09-10T16:28:31",
         "STATUS": "Active"
       },
       {
-        "ID": "110405",
+        "ID": "CF34RD",
         "FRAUD_CAT": "A",
         "REASON": "Claims history",
         "DATE": "2021-09-10T16:28:31",
         "STATUS": "Active"
       },
       {
-        "ID": "270907",
+        "ID": "NP164EE",
         "FRAUD_CAT": "B",
         "REASON": "Claims history",
         "DATE": "2021-09-10T16:28:31",
         "STATUS": "Active"
       },
       {
-        "ID": "100772",
+        "ID": "WV132EE",
         "FRAUD_CAT": "D",
         "REASON": "Claims history",
         "DATE": "2021-09-10T16:28:31",
