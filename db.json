@@ -1,33 +1,16 @@
 {
-    "persons": [
-      {
-        "ID": "BR87YG",
-        "FRAUD_CAT": "D",
-        "REASON": "Claims history",
-        "DATE": "2021-09-10T16:28:31",
-        "STATUS": "Active"
-      },
-      {
-        "ID": "CF34RD",
-        "FRAUD_CAT": "A",
-        "REASON": "Claims history",
-        "DATE": "2021-09-10T16:28:31",
-        "STATUS": "Active"
-      },
-      {
-        "ID": "NP164EE",
-        "FRAUD_CAT": "B",
-        "REASON": "Claims history",
-        "DATE": "2021-09-10T16:28:31",
-        "STATUS": "Active"
-      },
-      {
-        "ID": "WV132EE",
-        "FRAUD_CAT": "D",
-        "REASON": "Claims history",
-        "DATE": "2021-09-10T16:28:31",
-        "STATUS": "Active"
-      }
-    ]
-  }
-  
+  "customers": [
+    {
+      "id": 1019980000005291,
+      "churn": 4.5
+    },
+    {
+      "id": 1,
+      "churn": 6
+    },
+    {
+      "id": 2,
+      "churn": 7.2
+    }
+  ]
+}
